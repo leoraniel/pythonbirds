@@ -23,5 +23,6 @@ if __name__ == '__main__':
     pedro.sobrenome = 'Santos'
     del pedro.filhos
     print(pedro.sobrenome)
+    print(pedro.nome)
     print(pedro.__dict__)
     print(leonardo.__dict__)
